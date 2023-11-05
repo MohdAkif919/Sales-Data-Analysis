@@ -3,14 +3,20 @@ As the initial step in my data analytics internship at Meriskill, I proudly pres
 
 # Key Measures
 • Total Sales
+
 • Total Qty Ordered
+
 • Total Cost
+
 • Profit Margin
+
 • Profit Margin %
 
 # Key Metrics
 • Total Sales
+
 • Total Qty Ordered
+
 • Profit Margin %
 
 # Key Insights Derived
