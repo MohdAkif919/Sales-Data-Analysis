@@ -1,6 +1,8 @@
 # Overview
 As the initial step in my data analytics internship at Meriskill, I proudly present my first project, 'Sales Data Analysis.' This venture allowed me to dive headfirst into the world of data analytics, applying my skills to dissect and interpret sales data. The project was born from a desire to gain hands-on experience in this field and make a tangible impact within the organization. In the forthcoming sections, I will provide a concise overview of the project's key insights and the techniques employed to transform raw data into actionable insights.
 
+Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZGFmYjkzMzAtMWE2My00YjQyLTk2YTctYmUxZWQzNWJkYWE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 # Key Measures
 • Total Sales
 
